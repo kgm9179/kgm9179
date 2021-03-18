@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- I'm a CNU Computer Science Engineering student
+- Interested in C, Java ..
 <!--
 **kgm9179/kgm9179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
